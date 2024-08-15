@@ -14,11 +14,12 @@ Las clases se llevarán a cabo los martes y jueves del 20 de agosto al 12 de sep
 Es necesario que los participantes cuenten con una computadora personal y conexión a internet. Se recomienda, aunque no es excluyente, tener conocimientos básicos en el manejo de datos espaciales.
 
 ## Costo del curso por participante: 
+
+[![Inscripciones](https://img.shields.io/badge/-Inscripciones-gray?style=flat&logo=google&logoColor=white)](https://bit.ly/Introduccion_a_Python_2024)
+
 * Estudiantes y Docentes de la Universidad Nacional de Río Cuarto o de la Universidad Nacional de Mar del Plata 25,000 pesos argentinos.
 * Inscripción general 35,000 pesos argentinos.
 * Inscripción luego del 20 de agosto: 70,000 pesos argentinos.
-
-[![Inscripciones](https://img.shields.io/badge/-Inscripciones-gray?style=flat&logo=google&logoColor=white)](https://bit.ly/Introduccion_a_Python_2024)
 
 ## Fundamentos de la actividad: 
 Python se ha consolidado como uno de los lenguajes de programación más versátiles y de mayor auge en la ciencia de datos, siendo la base de implementaciones de modelos de inteligencia artificial y técnicas avanzadas de teledetección y visión computacional. Estas aplicaciones tienen el potencial de revolucionar la producción agropecuaria, facilitando el monitoreo, predicción y optimización de cultivos, y fomentando una agricultura más sostenible y eficiente. 
