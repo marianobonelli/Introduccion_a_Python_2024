@@ -18,6 +18,8 @@ Es necesario que los participantes cuenten con una computadora personal y conexi
 * Inscripción general 35,000 pesos argentinos.
 * Inscripción luego del 20 de agosto: 70,000 pesos argentinos.
 
+[![Inscripciones](https://img.shields.io/badge/-Inscripciones-gray?style=flat&logo=google&logoColor=white)](https://bit.ly/Introduccion_a_Python_2024)
+
 ## Fundamentos de la actividad: 
 Python se ha consolidado como uno de los lenguajes de programación más versátiles y de mayor auge en la ciencia de datos, siendo la base de implementaciones de modelos de inteligencia artificial y técnicas avanzadas de teledetección y visión computacional. Estas aplicaciones tienen el potencial de revolucionar la producción agropecuaria, facilitando el monitoreo, predicción y optimización de cultivos, y fomentando una agricultura más sostenible y eficiente. 
 Si bien el curso es de naturaleza introductoria, el objetivo principal es que los participantes comprendan las bases esenciales de Python, de modo que puedan posteriormente adentrarse y profundizar en esas áreas de aplicación específicas con una sólida fundamentación.
