@@ -1,7 +1,7 @@
 # INTRODUCCIÓN A LA PROGRAMACIÓN Y ANÁLISIS DE DATOS CON PYTHON, ORIENTADO A LA PRODUCCIÓN AGROPECUARIA - 2ª EDICIÓN
 
 ## Responsables del curso: 
-El curso estará a cargo de [![LinkedIn Badge](https://img.shields.io/badge/-marianobonelli-gray?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariano-francisco-bonelli/), [![LinkedIn Badge](https://img.shields.io/badge/-nicosoria-gray?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariano-francisco-bonelli/)Nicolás Soria y [![LinkedIn Badge](https://img.shields.io/badge/-thomasvarela-gray?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariano-francisco-bonelli/)Thomas Varela, cientistas de datos en el departamento DataLab de GeoAgro by TEK.
+El curso estará a cargo de [![LinkedIn Badge](https://img.shields.io/badge/-marianobonelli-gray?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariano-francisco-bonelli/), [![LinkedIn Badge](https://img.shields.io/badge/-Nicolás_Soria-gray?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/mariano-francisco-bonelli/](https://www.linkedin.com/in/nico-soria-465a55229/))Nicolás Soria y [![LinkedIn Badge](https://img.shields.io/badge/-thomasvarela-gray?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariano-francisco-bonelli/)Thomas Varela, cientistas de datos en el departamento DataLab de GeoAgro by TEK.
 
 ## Duración de la actividad: 
 El curso consta de 8 clases teórico-prácticas de dos horas cada una, que se dictarán en vivo a través de Google Meet. Las clases también quedarán grabadas para acceso on-demand.
