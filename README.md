@@ -3,7 +3,7 @@
 ## Responsables del curso:
 El curso estará a cargo de Mariano Bonelli, Nicolás Soria y Thomas Varela, cientistas de datos en el departamento DataLab de GeoAgro by TEK.
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Mariano_Bonelli-gray?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariano-francisco-bonelli/)[![LinkedIn Badge](https://img.shields.io/badge/-Nicolás_Soria-gray?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nico-soria-465a55229/)[![LinkedIn Badge](https://img.shields.io/badge/-Thomas_Varela-gray?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-varela-88040a1b6/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Mariano_Bonelli-gray?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariano-francisco-bonelli/) [![LinkedIn Badge](https://img.shields.io/badge/-Nicolás_Soria-gray?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nico-soria-465a55229/) [![LinkedIn Badge](https://img.shields.io/badge/-Thomas_Varela-gray?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-varela-88040a1b6/)
 
 
 ## Duración de la actividad: 
